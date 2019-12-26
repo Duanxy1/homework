@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */ 
+
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 1; outline: none;}
+body {	font-family: "微软雅黑";font-size: 14px;color:#000000; line-height:30px;text-align:left; }
+td,th {font-family: "宋体";font-size: 14px;color: #000000;}
+.clearit{clear:both;}  
+A:link {TEXT-DECORATION: none;} 
+A:visited {TEXT-DECORATION: none;}
+ul,li{list-style-type:none; color:#000;}
+p{ line-height:30px; }
+a{color:#000;}
+a:hover{color:#60353e;}
+
+
+
+.banner{width:1000px; height:400px;  background-image:url(images/banner.jpg); margin:0 auto;}
+.yinying{width:1000px; height:40px;background:rgba(244,192, 182, 0.5);}
+.logo{margin:0 auto; width:200px;}
+.daohang{width:1000px; height:40px;background:rgba(244,192, 182, 0.5); margin-top:320px;}
+.daohang ul li{float:left; width:250px; text-align:center; line-height:40px;}
+.page{background:rgba(244,192, 182, 0.5); width:1040px; margin:0 auto;}
+.dazuo{float:left; width:380px;}
+.dayou{float:right; width:600px;}
+.yi{width:1000px; margin:0 auto;}
+.da{margin-top:30px;}
+.tu{float:left; width:323px; margin-left:5px; margin-right:5px;}
+.foot p{text-align:center; font-size:16px; line-height:60px;}
